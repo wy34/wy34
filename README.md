@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @wy34
-- 👀 I’m interested in coding, in particular, iOS Development
-- 🌱 I’m currently learning SwiftUI (and anything iOS related)
-- 💞️ I’m looking to collaborate on cool project ideas and iOS app development
+- 👀 I’m love to code and build iOS apps.
+- ♟ I love to play the game of chess.
+- 🌱 I’m currently learning SwiftUI and Unit/UI Testing.
+- 👯‍ ♀️I’m looking to find my first position as an iOS developer.
 - 📫 How to reach me -> williamyeung1141998@gmail.com
 
 <!---
