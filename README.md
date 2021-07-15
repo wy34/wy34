@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wy34
-- 👀 I’m love to code and build iOS apps.
+- 👀 I love to code and build iOS apps.
 - 🌱 I’m currently learning SwiftUI and Unit/UI Testing.
 - 👯‍ I’m looking to find my first position as an iOS developer.
 - ♟ I love to play the game of chess.
