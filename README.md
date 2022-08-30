@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @wy34
 - 👀 I love to code and build iOS apps.
 - 🌱 I’m currently learning SwiftUI and Unit/UI Testing.
-- 👯‍ I’m looking to find my first position as an iOS developer.
-- ♟ I love to play the game of chess.
-- 📫 How to reach me -> williamyeung1141998@gmail.com
+- ♟ I love to play the game of chess ang workout🏋🏼‍♂️.
+- 📫 How to reach me -> wyeung34@gmail.com
 
 <!---
 wy34/wy34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
