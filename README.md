@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wy34
 - 👀 I love to code and build iOS apps.
-- 🌱 I’m currently learning SwiftUI and Unit/UI Testing.
-- ♟ I love to play the game of chess ang workout🏋🏼‍♂️.
+- 🌱 I’m currently an iOS Dev at PNC Bank working on their mobile banking app.
+- 🎥  In my free time, I love watch movies/shows and go to the gym 🏋🏼‍♂️.
 - 📫 How to reach me -> wyeung34@gmail.com
 
 <!---
